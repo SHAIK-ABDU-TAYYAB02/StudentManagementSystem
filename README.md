@@ -66,14 +66,25 @@ The menu continues until the user selects the exit option.
 8. Project File Structure
 
 text
+## 8. Project File Structure
+
 StudentManagementSystem/
-│
 ├── main.py
 ├── README.md
-├── .gitignore
-├── students.txt
 └── screenshots/
-The students.txt file is created when student records are saved. Include it in the repository only if appropriate for your submission and if it contains no private information. The screenshots folder contains screenshots of the application's output.
+    ├── Source_code1.png
+    ├── Source_code2.png
+    ├── Source_code3.png
+    ├── Source_code4.png
+    ├── Source_code5.png
+    ├── Source_code6.png
+    ├── Out_put1.png
+    ├── Out_put2.png
+    └── Out_put3.png
+
+The `main.py` file contains the application source code. The `README.md` file provides project documentation. The `screenshots/` folder contains screenshots of the source code and program output.
+The `students.txt` file is created locally when student records are saved.
+
 
 9. Installation and Setup
 
@@ -115,6 +126,7 @@ Add a graphical user interface.
 Use a database such as SQLite for structured storage.
 Generate student performance reports.
 Improve handling of names containing commas and more robust file validation.
+
 14. Conclusion
 The Student Management System demonstrates the practical use of Python fundamentals, functions, data structures, conditional statements, loops, exception handling, file handling, and the datetime module.
 
