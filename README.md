@@ -121,9 +121,4 @@ The Student Management System demonstrates the practical use of Python fundament
 The project provides a simple way to manage student information and calculate average marks. Git and GitHub can be used to track changes and maintain the project repository.
 
 15. GitHub Repository
-Repository URL: Add your GitHub repository link here.
-
-16. Internship Details
-Internship Week: Week 6 of 6
-Project Category: Python Programming
-Project Title: Student Management System
+Repository URL: https://github.com/SHAIK-ABDU-TAYYAB02/StudentManagementSystem.
